@@ -1,0 +1,21 @@
+[submodule "algorithm"]
+	path = algorithm
+	url = git@github.com:maroomir/AlgorithmPlayground.git
+[submodule "unity"]
+	path = unity
+	url = git@github.com:maroomir/UnityPlayground.git
+[submodule "flask"]
+	path = flask
+	url = git@github.com:maroomir/FlaskPlayground.git
+[submodule "blender"]
+	path = blender
+	url = git@github.com:maroomir/BlenderPlayground.git
+[submodule "vision_recognization"]
+	path = vision_recognization
+	url = git@github.com:maroomir/VisionRecognizationPlayground.git
+[submodule "data_mining"]
+	path = data_mining
+	url = git@github.com:maroomir/DataMiningPlayground.git
+[submodule "advanced_computer_vision"]
+	path = advanced_computer_vision
+	url = git@github.com:maroomir/AdvancedComputerVisionPlayground.git
