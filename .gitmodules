@@ -19,3 +19,6 @@
 [submodule "advanced_computer_vision"]
 	path = advanced_computer_vision
 	url = git@github.com:maroomir/AdvancedComputerVisionPlayground.git
+[submodule "swift"]
+	path = swift
+	url = git@github.com:maroomir/SwiftPlayground.git
